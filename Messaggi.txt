@@ -1,0 +1,50 @@
+1,paolo,marta,Ciao come stai?
+2,marta,paolo,Bene grazie e tu?
+3,paolo,marta,Tutto ok.
+4,salvatore,luca,Usciamo giovedì?
+5,luca,salvatore,Non posso perché ho un esame.
+6,angela,gemma,Che fai di bello?
+7,gemma,angela,Sto uscendo e tu?
+8,angela,gemma,Mi annoio.
+9,luisa,francesco,Vieni a lezione domani?
+10,francesco,luisa,Si.
+11,fabrizio,giovanni,Che fai?
+12,giovanni,fabrizio,Sono in laboratorio.
+13,salvatore,jennifer,A che ora arrivi?
+14,jennifer,salvatore,Alle 17. Mi servirà aiuto con le valige.
+15,salvatore,jennifer,Sarò lì ad aspettarti!
+16,irene,rita,Che smartphone pensi di acquistare?
+17,rita,irene,One Plus One e tu?
+18,irene,rita,Sony Xperia Z3.
+19,elisabetta,carmine,Andiamo in pizzeria?
+20,carmine,elisabetta,Certo! 
+21,elisabetta,carmine,Ci vediamo alle 20!
+22,maria,michele,Vieni a correre?
+23,michele,maria,Non penso. Magari domani.
+24,marco,giulia,Ciao che fai?
+25,giulia,marco,Sto guardando un film e tu?
+26,marco,giulia,Gioco.
+27,loredana,maria,Che mi racconti di bello?
+28,maria,loredana,Ti racconto che da oggi sono in ferie! 
+29,loredana,maria,Beata te! Dove te ne andrai? 
+30,maria,loredana,Penso che andrò verso Rimini. Tu invece?
+31,loredana,maria,Le ferie non credo le prenderò prima di settembre, quindi ancora non so.
+32,daniele,lorenzo,Hai sentito che quest'anno esce il nuovo One Plus One?
+33,lorenzo,daniele,Si.. penso sarà un ottimo acquisto!
+34,daniele,lorenzo,Sicuramente!
+35,fabrizio,nicola,Andiamo al mare?
+36,nicola,fabrizio,Non posso oggi. Facciamo un altro giorno?
+37,fabrizio,nicola,Che ne pensi di andare sabato pomeriggio?
+38,nicola,fabrizio,Va benissimo! Andiamo con il treno?
+39,fabrizio,nicola,Si.. penso che ci sia alle 15.
+40,giuseppe,francesca,Giovedì ci sarà il concerto dei Linkin Park. Vieni?
+41,francesca,giuseppe,Certo! A che ora passi a prendermi?
+42,giuseppe,francesca,Penso verso le 17.
+43,francesca,giuseppe,Perfetto! Ma il concerto a che ora comincia?
+44,giuseppe,francesca,Verso le 21!
+45,tiziana,rocco,Che fai?
+46,rocco,tiziana,Sto pensando a cosa cucinare per pranzo.
+47,tiziana,rocco,Che ne dici di una spaghettata?
+48,rocco,tiziana,Ottima idea! Preferisci aglio e olio o pomodoro fresco?
+49,tiziana,rocco,Pomodoro fresco.
+50,rocco,tiziana,Perfetto! Ti aspetto per pranzo.

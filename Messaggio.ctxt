@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=id\ mittente\ destinatario\ testo
+comment0.target=Messaggio(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\n\ Crea\ un\ oggetto\ di\ tipo\ messaggio.\n\ @param\ id\ indica\ il\ numero\ del\ messaggio\n\ @param\ mittente\ indica\ il\ nome\ dell'utente\ che\ invia\ il\ messaggio\n\ @param\ destinatario\ indica\ il\ nome\ dell'utente\ che\ riceve\ il\ messaggio\n\ @param\ testo\ indica\ il\ testo\ del\ messaggio\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Ritorna\ la\ stringa\ del\ messaggio.\n
+comment2.params=
+comment2.target=java.lang.String\ getMittente()
+comment2.text=\n\ Ritorna\ il\ mittente.\n
+comment3.params=
+comment3.target=java.lang.String\ getDestinatario()
+comment3.text=\n\ Indica\ il\ numero\ identificativo\ del\ messaggio.\n
+comment4.params=
+comment4.target=int\ getId()
+comment4.text=\n\ Ritorna\ il\ numero\ id.\n
+numComments=5

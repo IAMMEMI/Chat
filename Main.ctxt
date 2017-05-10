@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Main\:\ inizializza\ il\ menu\ e\ importo\ i\ messaggi\ da\ file.\r\n
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ iniziaMenu()
+comment2.text=\r\n\ Menu\r\n
+comment3.params=c
+comment3.target=void\ ritornaScelta(char)
+comment3.text=\r\n\ Mi\ ritorna\ la\ scelta\ effettuata\ da\ menu.\r\n\ @param\ c\ mi\ ritorna\ il\ carattere\ scelto\ dall'utente\r\n
+comment4.params=
+comment4.target=void\ nuovoMessaggio()
+comment4.text=\r\n\ Chiede\ all'utente\ i\ dati\ da\ aggiungere\ per\ il\ nuovo\ messaggio\ e\ lo\ aggiunge\ nell'arraylist.\r\n
+comment5.params=arrayList
+comment5.target=void\ stampaArrayList(java.util.ArrayList)
+comment5.text=\r\n\ Stampa\ a\ video\ l'array\ di\ tipo\ Messaggio.\r\n\ @param\ arrayList\ l'arraylist\ da\ stampare\ di\ tipo\ messaggio\r\n
+numComments=6
